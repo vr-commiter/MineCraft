@@ -14,7 +14,7 @@
 [Vivecraft](https://www.vivecraft.org/)
 [minecrafttruegear-1.0.0](https://static.truegear.cn/MineCraft/minecrafttruegear-1.0.0.jar)
 
-#Install Java
+### Install Java
 
 - Download and Install **“Java17”**
 ![](https://static.truegear.cn/bbs/Minecraft/8.png)
